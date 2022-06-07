@@ -2,5 +2,5 @@
 Maze generator
 
 Requirements:
-  Linux
-  SFML
+- Linux
+- SFML
