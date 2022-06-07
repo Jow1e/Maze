@@ -1,5 +1,5 @@
 # Maze generator
 
 Requirements:
-- Linux
+- Linux (or change makefile for windows)
 - SFML
