@@ -1,5 +1,4 @@
-# Maze
-Maze generator
+# Maze generator
 
 Requirements:
 - Linux
